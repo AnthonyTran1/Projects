@@ -21,7 +21,7 @@ This repository consists of the accumulations of projects created within Anthony
 * [Python](https://www.python.org/)
 
 
-
+/*
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -33,7 +33,7 @@ To get a local copy up and running follow these simple example steps.
   ```sh
   npm install npm@latest -g
   ```
-
+*/
 <!-- CONTACT -->
 ## Contact
 
